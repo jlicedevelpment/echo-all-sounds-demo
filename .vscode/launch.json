@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "name": "Flutter (lib\\TV_template.dart)",
+            "type": "dart",
+            "request": "launch",
+            "program": "lib\\TV_template.dart"
+        }
+    ]
+}
